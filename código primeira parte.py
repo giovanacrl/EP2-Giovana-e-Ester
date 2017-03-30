@@ -37,6 +37,7 @@ while True:
         print(vida_oponente)
     elif bonecos[i] in pidijet:
         vida_oponente=pidijet["vida"]
+        #amor
         print(vida_oponente)
          
         
